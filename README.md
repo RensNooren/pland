@@ -1,1 +1,3 @@
-**Hallo! welkom inde ReadMe van Pland**
+**Hallo!**
+ 
+ **Welkom in de ReadMe van Pland.**
